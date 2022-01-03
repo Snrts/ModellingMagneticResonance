@@ -1,2 +1,2 @@
 # ModellingMagneticResonance
-Repository for proect period 9
+Repository for project period 9
